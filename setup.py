@@ -48,7 +48,6 @@ setup(
     install_requires=[
         'pandas',
         'pathlib2',
-        'pathlib',
         'requests',
         'PyJWT[crypto]',
         'PyJWT',
